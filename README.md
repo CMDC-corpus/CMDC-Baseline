@@ -1,4 +1,4 @@
-# Baseline model of Ef-LSTM and Mult
+# Bechmark evaluation models of CMDC: Ef-LSTM and Mult
 
 ## Usage
 
