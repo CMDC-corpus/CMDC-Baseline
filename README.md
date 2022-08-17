@@ -8,7 +8,7 @@ The Bi-LSTM code is partly borrowed from  https://github.com/649453932/Chinese-T
 
 ## Corpus Download Link
 
-https://drive.google.com/drive/folders/1BnpE-xfQmRbQPWW4wxc_llMPkI2GZ2cy
+https://ieee-dataport.org/open-access/chinese-multimodal-depression-corpus
 
 The data are passcode protected. Please download and send the signed EULA to zoubochao@ustb.edu.cn for access request.
 
